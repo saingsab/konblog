@@ -1,2 +1,2 @@
 # Small And Lite For Personal Blog
-Mad of React + TypeScript + Vite
+Made of React + TypeScript + Vite
